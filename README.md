@@ -93,7 +93,7 @@ Dimensão criada para permitir análises temporais.
 
 O diagrama apresenta a tabela `fato_professor` no centro, conectada às cinco dimensões por relacionamentos de um para muitos (1:N).
 
-![Diagrama Star Schema de Professores](Star-Schema_professor.png)
+![Diagrama Star Schema de Professores](Star-schema_professor.png)
 
 A estrutura foi desenvolvida e visualizada por meio do MySQL Workbench.
 
